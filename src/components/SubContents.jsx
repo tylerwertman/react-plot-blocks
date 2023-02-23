@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from './SubContents.module.css'
+import styles from './Styles.module.css'
 
 const SubContents = () => {
   return (
